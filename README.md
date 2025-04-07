@@ -12,3 +12,4 @@ Jag har lagat html-dokumentet.
 ## V.14
 Idag har jag färdigställt logotypen
 ## V.15 
+Fixade med layout och logga
